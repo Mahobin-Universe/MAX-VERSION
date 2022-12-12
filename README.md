@@ -1,4 +1,5 @@
-#instalaition
+#Instalaition
+
 pkg install python
 
 pkg install python2
